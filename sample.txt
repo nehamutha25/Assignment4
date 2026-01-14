@@ -1,0 +1,5 @@
+Welcome to Python Programming.
+This is a sample text file.
+It is used to demonstrate file handling.
+Each line is read and printed separately.
+Thank you!
